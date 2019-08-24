@@ -11,6 +11,8 @@ public class AppTest
     extends TestCase
 {
     int i;
+
+    String name;
     /**
      * Create the test case
      *
