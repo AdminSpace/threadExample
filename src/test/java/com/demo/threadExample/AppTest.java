@@ -10,6 +10,9 @@ import junit.framework.TestSuite;
 public class AppTest 
     extends TestCase
 {
+    int i;
+
+    String name;
    boolean b;
 	/**
      * Create the test case
